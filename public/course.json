@@ -1,0 +1,150 @@
+
+
+
+[
+    {
+      "id": "1" ,
+      "thumbail":"https://i.ibb.co/Jmcj1zX/UJYT73-740x540.jpg",
+      "author_name":"Tim Burton",
+      "author_img":"https://i.ibb.co/LCyK3sS/user1.jpg",
+      "category":"Cooking",
+      "price":"Free",
+      "course_name":"Absolute Beginners Cooking Course",
+      "update":"March 14, 2023",
+      "review":"5.00",
+      "duretion":"10 Weeks",
+      "lesson": "10 Lesson",
+      "enrolled":"101 Students",
+      "level":"Only Girls",
+      "instructor":"Silas Turner a professional software developer for close to 40 years. During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.",
+      "description":"Discover the art of cooking from scratch in our 8-week Absolute Beginners Cooking Course. Perfect for those with little to no experience in the kitchen. Each week, you'll explore a new culinary skill, from knife techniques and food safety to sautéing, roasting, and baking. Our expert instructors will guide you through hands-on lessons in a friendly, small-class setting. By the course's end, you'll confidently prepare a variety of dishes and receive a graduation certificate. Limited spots available, so register today at [Course Registration Link] or call [Contact Information]. Unleash your inner chef and embark on a delicious journey of culinary discovery!"
+    },
+
+    {
+      "id": "2" ,
+      "thumbail":"https://i.ibb.co/hsPB2JV/VAR94-740x540.jpg",
+      "author_name":"Devon Koss",
+      "author_img":"https://i.ibb.co/YtYGvc5/RIT43-150x150.jpg",
+      "category":"Business",
+      "price":"$ 50.00",
+      "course_name":"Web Design Training with Elementor",
+      "update":"12june, 2023",
+      "review":"4.7",
+      "duretion":"8 Weeks",
+      "lesson": "8 Lessone",
+      "enrolled":"88 Students",
+      "level":"All Level",
+      "instructor":"Quinn Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies.",
+      "description":"Elevate your web design prowess with our focused training, specifically centered on harnessing the power of Elementor, the premier website builder for WordPress. Over the course of [duration], you'll become proficient in crafting captivating and responsive websites without needing to code.Throughout this comprehensive program, you'll delve into:Elementor Mastery: You'll navigate Elementor's user-friendly drag-and-drop interface and harness its vast array of widgets to build stunning web pages.Design Proficiency: Learn core design principles, honing your layout skills, and mastering user experience (UX) essentials, ensuring your websites not only look great but also function superbly.Responsive Design: Adapt your web designs seamlessly to various devices, from desktops to smartphones, guaranteeing an optimal user experience.Customization Excellence: Explore advanced Elementor features, including creating customized headers, footers, and dynamic content, to give your websites a unique edge.SEO Optimization: Discover how to optimize your websites for search engines, increasing their visibility and reach.By course completion, you'll have the expertise to design and develop professional websites with Elementor, making you a sought-after web designer. Enroll now at [Course Registration Link] or contact [Contact Information] to kickstart your journey to web design excellence."
+    },
+
+    {
+      "id": "3" ,
+      "thumbail":"https://i.ibb.co/K0SSLzf/FOO634-740x540.jpg",
+      "author_name":" Fred Hyman",
+      "author_img":"https://i.ibb.co/2FX562v/SMK943-11111111111150x150.jpg",
+      "category":"Cooking",
+      "price":"$ 65.00",
+      "course_name":"Basic Level Youth Health and Cooking",
+      "update":"22 August, 2023",
+      "review":"4.9",
+      "duretion":"6 Weeks",
+      "lesson": "5 Lesson",
+      "enrolled":"77 Student",
+      "level":"Only Girls",
+      "instructor":"I have been teaching students for over 12 years via online classes at over 10 different online Universities. I have created many different class curriculums, ranging from mobile programming to bash scripting to Object-Oriented Design.",
+      "description":"Our Basic Level Youth Health and Cooking program is tailored for teenagers looking to kickstart their culinary journey and make informed, health-conscious choices. Over the course of the program, participants will learn essential cooking techniques, kitchen safety, and the importance of nutritious eating.Key highlights include:Cooking Foundations: Master fundamental cooking skills, setting a strong culinary foundation.Nutritional Awareness: Explore the world of nutrition, understanding the value of balanced meals.Healthy Cooking: Prepare delicious, wholesome dishes suitable for breakfast, lunch, and dinner.Wellness Insights: Discover how food choices impact physical and mental well-being.Hands-On Learning: Engage in practical, interactive cooking experiences to build confidence in the kitchen. Equip your teenager with valuable life skills. Enroll now at [Registration Link] or contact [Contact Information] to instill a lifelong passion for healthy cooking and eating."
+    },
+
+
+    {
+      "id": "4" ,
+      "thumbail":"https://i.ibb.co/mbm1KxH/PRzzzzzzzzzzzzzzzz-O833-740x540.jpg",
+      "author_name":"Tim Burton",
+      "author_img":"https://i.ibb.co/LCyK3sS/user1.jpg",
+      "category":"Life Style",
+      "price":"$ 35.00",
+      "course_name":"Drawing and Painting Course for Children",
+      "update":"11may, 2023",
+      "review":"4.5",
+      "duretion":"20 Days",
+      "lesson": "10 Lesson",
+      "enrolled":"50 Stydent",
+      "level":"All Level",
+      "instructor":"Silas Turner a professional software developer for close to 40 years. During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.His video courses are used to train developers in major companies such as Mercedes-Benz,",
+      "description":"Unlock your child's creativity with our engaging Drawing and Painting Course designed specifically for young artists. In this enriching program, children aged [Age Range] will embark on a colorful journey to explore their artistic talents and express their imaginations through various visual mediums.Key highlights of the course include:Fundamental Skills: Children will learn the basics of drawing and painting, from handling art supplies to mastering strokes and techniques.Creative Expression: Encourage self-expression as young artists bring their ideas to life on canvas and paper.Exploration: Explore a variety of art styles, including watercolors, acrylics, and pencil sketches.Art Appreciation: Introduce your child to famous artists and their works, inspiring them to appreciate the world of art. Portfolio Building: Children will create a personal portfolio of their artworks to showcase their progress and achievements."
+    },
+
+    {
+      "id": "5" ,
+      "thumbail":"https://i.ibb.co/hmMDXgt/Bcccccccccccc-IRR267-740x540.jpg",
+      "author_name":"Devon Koss",
+      "author_img":"https://i.ibb.co/YtYGvc5/RIT43-150x150.jpg",
+      "category":"Finance",
+      "price":"$ 70.00",
+      "course_name":"WordPress Beginner to Advanced Course",
+      "update":"26 March, 2023",
+      "review":"5.00",
+      "duretion":"1 Month",
+      "lesson": "20 Lesson",
+      "enrolled":"120 Students",
+      "level":"Only Boys",
+      "instructor":"Quinn Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies.",
+      "description":"Unleash your website-building potential with our comprehensive WordPress course! Whether you're a beginner or have some experience, this course covers it all.Highlights:WordPress Basics: From installation to content creation, start with the fundamentals.Themes and Plugins: Customize your site's look and functionality with themes and plugins.SEO and Performance: Optimize your website for search engines and speed.E-Commerce: Learn to create online stores and handle transactions securely.Security: Safeguard your website from threats and hacks.Advanced Techniques: Dive into coding, custom post types, and advanced theme development.Our hands-on approach ensures you gain practical skills to build, manage, and optimize websites. Join our WordPress course and become a proficient user, capable of creating stunning websites for personal or business use. Enroll now at [Registration Link] or contact [Contact Information]."
+    },
+
+
+    {
+      "id": "6" ,
+      "thumbail":"https://i.ibb.co/4tz25Wv/BLP0xxxxxxxxxxxx8-740x540.jpg",
+      "author_name":"Tim Burton",
+      "author_img":"https://i.ibb.co/LCyK3sS/user1.jpg",
+      "category":"Business",
+      "price":"$ 60.00",
+      "course_name":"Complete Digital Marketing Course",
+      "update":"20 june, 2023",
+      "review":"4.9",
+      "duretion":"20 Days",
+      "lesson": "7 Lesson",
+      "enrolled":"99 Student",
+      "level":"All Level",
+      "instructor":"Silas Turner a professional software developer for close to 40 years. During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.His video courses are used to train developers in major companies such as Mercedes-Benz,",
+      "description":"Unlock the power of digital marketing with our comprehensive course. From strategy development and content creation to SEO, social media, and analytics, you'll master every facet of online marketing. Explore hands-on campaigns, harness the latest tools, and discover the secrets to success in the digital landscape. Whether you're a novice or marketing professional, our course provides practical skills and real-world insights to boost your career or business. Join us to navigate the dynamic world of digital marketing, gain a competitive edge, and drive results. Enroll today at [Registration Link] or contact [Contact Information]. Your digital marketing journey begins here."
+    },
+
+    {
+      "id": "7" ,
+      "thumbail":"https://i.ibb.co/SrPxMcB/Fqqqqqqqqqqqqq-OOT733-740x540.jpg",
+      "author_name":"Fred Hyman",
+      "author_img":"https://i.ibb.co/2FX562v/SMK943-11111111111150x150.jpg",
+      "category":"Cooking",
+      "price":"Free",
+      "course_name":"Online Healthy Cooking Course",
+      "update":"11 August, 2023",
+      "review":"5.00",
+      "duretion":"2 Month",
+      "lesson": "16 Lesson",
+      "enrolled":"106 Student",
+      "level":"Only Girs",
+      "instructor":"I have been teaching students for over 12 years via online classes at over 10 different online Universities. I have created many different class curriculums, ranging from mobile programming to bash scripting to Object-Oriented Design.",
+      "description":"Embark on a culinary adventure from the comfort of your own kitchen with our Online Healthy Cooking Course. Explore the art of nutritious and delicious cooking through interactive virtual lessons. Discover a world of wholesome ingredients, cooking techniques, and health-conscious recipes. From plant-based cuisine to balanced meal planning, our course covers it all. Join us online to enhance your culinary skills, improve your health, and create mouthwatering dishes. Enroll today at [Registration Link] and savor the flavors of a healthier lifestyle."
+    },
+    {
+      "id": "8" ,
+      "thumbail":"https://i.ibb.co/frmm6hq/Bnnnnnnnnnn-KJ83-740x540.jpg",
+      "author_name":"Dev Koss",
+      "author_img":"https://i.ibb.co/YtYGvc5/RIT43-150x150.jpg",
+      "category":"Business",
+      "price":"$ 69.00",
+      "course_name":"The Ultimate App Making Course",
+      "update":"24 Lusy, 2023",
+      "review":"5.00",
+      "duretion":"% Weeks",
+      "lesson": "12 Lesson",
+      "enrolled":"87 Student",
+      "level":"Only Boys",
+      "instructor":"Quinn Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science and programming. He has publications and patents in various fields such as microfluidics, materials science, and data science technologies.",
+      "description":"Turn your app ideas into reality with our Ultimate App Making Course. Whether you're a beginner or have some coding experience, this course will equip you with the skills needed to develop and launch your own mobile applications for iOS and Android. From app design and coding to testing and deployment, we cover every step of the development process. Learn from experienced app developers, gain hands-on experience, and build a portfolio of your own apps. Join us to unleash your creativity and embark on a journey to becoming a proficient app developer. Enroll now at [Registration Link] and start creating your dream apps today."
+    }
+    
+]
